@@ -62,10 +62,9 @@ sections:
       - type: FeaturedItem
         title: Drop in
         subtitle: 'Fight, loot, or strategize.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Race to upgrade your teams stats in this 4v4 game. Use powerful items
+          to enhance your team's health, energy, speed, and more!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
