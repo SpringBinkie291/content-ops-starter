@@ -8,6 +8,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
