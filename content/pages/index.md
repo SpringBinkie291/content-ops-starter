@@ -89,10 +89,10 @@ sections:
               borderRadius: x-large
       - title: Find Cores
         subtitle: The Ultimate Items!
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Defeat bosses and other Scapers at a shot of finding a Synergy Core,
+          the only way to escape The Dreamscape! Once you find one, race to find
+          a Beacon!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
