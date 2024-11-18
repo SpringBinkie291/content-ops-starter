@@ -51,7 +51,7 @@ sections:
         fontStyle: italic
   - type: FeaturedItemsSection
     title:
-      text: How the game works
+      text: The Dreamscape
       color: text-dark
       styles:
         self:
