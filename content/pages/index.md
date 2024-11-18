@@ -114,10 +114,12 @@ sections:
         type: FeaturedItem
       - title: Escape!
         subtitle: Be quick!
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Once you use the Synergy Core on the Beacon, you await the opposing
+          team in the next world, as they race to escape before The Dreamscape
+          destabilizes! If they manage to escape, both teams fight until one
+          remains, crowning the victors! If they fail to escape, the escapees
+          win! Are you in?
         image:
           url: /images/icon3.svg
           altText: Featured icon three
