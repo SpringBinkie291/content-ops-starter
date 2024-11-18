@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join the Demo today!
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Jump into the long anticipated demo of The Dreamscape! Explore all that
+      Statan Industries has to offer in The Range : a place to try out all
+      Scapers, explore different items and Cores, test out new in-game
+      mechanics, and so much more! New Scapers will be added throughout the
+      demo's life, up until the grand release of The Dreamscape : Part I!
+
+
+
     actions:
       - label: Get started
         altText: ''
