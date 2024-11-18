@@ -51,7 +51,7 @@ sections:
         fontStyle: italic
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: How the game works
       color: text-dark
       styles:
         self:
